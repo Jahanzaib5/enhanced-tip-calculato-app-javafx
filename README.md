@@ -10,7 +10,7 @@
 ##
 ## In order to setup JavaFX project, follow the instruction on this link: (https://openjfx.io/openjfx/docs/#introduction)
 #
-#For VM options : --module-path "path-to-openjfx-lib-foler" --add-modules javafx.controls,javafx.fxml
+# For VM options : --module-path "path-to-openjfx-lib-foler" --add-modules javafx.controls,javafx.fxml
 #
 
 
